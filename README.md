@@ -1,5 +1,5 @@
 # SurgeRuleset
 Own Use
 Prepare to do:
-## Telegram
-## OpenAI
+1. Telegram
+2. OpenAI
